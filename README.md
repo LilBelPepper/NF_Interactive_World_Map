@@ -31,7 +31,7 @@ Some requirements for this project include:
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: [[Nicole Fortin_Angular Interactive World Map](https://eloquent-malasada-f98827.netlify.app/)
 
 
 ## My process
