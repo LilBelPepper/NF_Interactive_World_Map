@@ -1,0 +1,53 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    box-sizing: border-box;
+    background-color: var(--white-smoke);
+}
+
+:root {
+    --eerie-black: #1e1c19;
+    --dark-green: #273d2a;
+    --ash-grey: #98A390;
+    --platinum: #e9e6e1;
+    --white-smoke: #f5f5f5;
+}
+
+main {
+    margin: 0 auto;
+    width: 100%;
+    max-height: 100vh;
+    color: var(--eerie-black);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content-container {
+    display: flex;
+}
+
+path {
+    fill: var(--dark-green)
+}
+
+path:hover {
+    fill: var(--ash-grey);
+    cursor: pointer;
+}
+
+#country-info {
+    margin-left: 8rem;
+    width: 20vw;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-left: 8px;
+    font-size: 18px;
+}
+
+span {
+    font-weight: 400;
+    font-size: 16px;
+}
