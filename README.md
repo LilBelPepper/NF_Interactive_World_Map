@@ -31,7 +31,7 @@ Some requirements for this project include:
 
 ### Links
 
-- Live Site URL: [Nicole Fortin_Angular Interactive World Map]()
+- Live Site URL: 
 
 
 ## My process
